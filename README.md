@@ -1,1 +1,2 @@
+[![Build Status](https://travis-ci.org/wenner-sanner/versionando-bd-com-flyway-no-spring.svg?branch=master)](https://travis-ci.org/wenner-sanner/versionando-bd-com-flyway-no-spring)
 # versionando-bd-com-flyway-no-spring
